@@ -1,0 +1,504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VGR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-26 13:29+0100\n"
+"PO-Revision-Date: 2015-01-26 13:30+0100\n"
+"Last-Translator: Gaëtan VERLHAC <viviengaetan69@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: translate;translatePlural:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/Common/View/Helper/Gender.php:20
+msgid "common.gender"
+msgstr "Sexe"
+
+#: src/Common/View/Helper/Gender.php:23
+msgid "common.gender.male"
+msgstr "Homme"
+
+#: src/Common/View/Helper/Gender.php:24
+msgid "common.gender.female"
+msgstr "Femme"
+
+#: src/Common/View/Helper/Location.php:21
+msgid "common.location"
+msgstr "Pays"
+
+#~ msgid "Gender"
+#~ msgstr "Sexe"
+
+#~ msgid "sex.male"
+#~ msgstr "Homme"
+
+#~ msgid "sex.female"
+#~ msgstr "Femme"
+
+#~ msgid "title.chart.ranking"
+#~ msgstr "Classement du record"
+
+#~ msgid "breadcrumb.chart.ranking.full"
+#~ msgstr "Classement complet du record"
+
+#, fuzzy
+#~ msgid "title.chart.fullranking"
+#~ msgstr "Classement du record"
+
+#~ msgid "title.submit.chart"
+#~ msgstr "Envoyez votre score"
+
+#~ msgid "breadcrumb.home"
+#~ msgstr "Accueil"
+
+#~ msgid "title.pointranking"
+#~ msgstr "Classement points"
+
+#~ msgid "breadcrumb.pointranking.full"
+#~ msgstr "Classement points complet"
+
+#~ msgid "title.medalranking"
+#~ msgstr "Classement médailles"
+
+#~ msgid "breadcrumb.medalranking.full"
+#~ msgstr "Classement médailles complet"
+
+#~ msgid "title.group.pointranking"
+#~ msgstr "Classement points du groupe"
+
+#~ msgid "title.group.medalranking"
+#~ msgstr "Classement médailles du groupe"
+
+#~ msgid "breadcrumb.group.medalranking.full"
+#~ msgstr "Classement complet des médailles du groupe"
+
+#~ msgid "title.submit.group"
+#~ msgstr "Envoyez vos scores"
+
+#~ msgid "head_title.profile"
+#~ msgstr "Profil"
+
+#~ msgid "%s.profile"
+#~ msgstr "Profil de %s"
+
+#~ msgid "breadcrumb.generalranking"
+#~ msgstr "Classement général"
+
+#~ msgid "title.%d.toppoint"
+#~ msgstr "Top %d points"
+
+#~ msgid "title.generalranking.points"
+#~ msgstr "Classement points général"
+
+#~ msgid "title.%d.topmedal"
+#~ msgstr "Top %d médailles"
+
+#~ msgid "title.generalranking.medals"
+#~ msgstr "Classement médailles général"
+
+#~ msgid "head_title.rules"
+#~ msgstr "Règlement"
+
+#~ msgid "breadcrumb.rules"
+#~ msgstr "Règlement"
+
+#~ msgid "head_title.faq"
+#~ msgstr "FAQ"
+
+#~ msgid "breadcrumb.faq"
+#~ msgstr "FAQ"
+
+#~ msgid "head_title.credits"
+#~ msgstr "Crédits"
+
+#~ msgid "breadcrumb.credits"
+#~ msgstr "Crédits"
+
+#~ msgid "submit.add.%d.score"
+#~ msgid_plural "submit.add.%d.scores"
+#~ msgstr[0] "Votre score a été ajouté avec succès."
+#~ msgstr[1] "Vos %d scores ont été ajoutés avec succès."
+
+#~ msgid "submit.edit.%d.score"
+#~ msgid_plural "submit.edit.%d.scores"
+#~ msgstr[0] "Votre score a été modifié avec succès."
+#~ msgstr[1] "Vos %d scores ont été modifiés avec succès."
+
+#~ msgid "submit.noscore"
+#~ msgstr "Aucun score n'a été saisi."
+
+#~ msgid "submit.validate"
+#~ msgstr "Valider"
+
+#~ msgid "You must be logged in to request a proof."
+#~ msgstr "Vous devez être connecté pour demander une preuve."
+
+#~ msgid "Not proven."
+#~ msgstr "Non Prouvé."
+
+#~ msgid "Request for a proof."
+#~ msgstr "Demander une preuve."
+
+#~ msgid "Request for a proof not validated."
+#~ msgstr "Demande de preuve non validée."
+
+#~ msgid "Request for a proof validated."
+#~ msgstr "Demande de preuve validée."
+
+#~ msgid "Proof sent after a request, under investigation."
+#~ msgstr "Preuve envoyée suite à une demande, en cours de validation."
+
+#~ msgid "Proof sent, under investigation."
+#~ msgstr "Preuve envoyée, en cours de validation."
+
+#~ msgid "Proven."
+#~ msgstr "Prouvé."
+
+#~ msgid "Disabled score."
+#~ msgstr "Score désactivé."
+
+#~ msgid "Add a proof"
+#~ msgstr "Ajouter une preuve"
+
+#~ msgid "View picture"
+#~ msgstr "Voir l'image"
+
+#~ msgid "View video"
+#~ msgstr "Voir la vidéo"
+
+#~ msgid "layout.stats.%s_members_%s_posts_%s_proofs_%s_games"
+#~ msgstr "Nos %s membres ont soumis %s scores et %s preuves sur %s jeux."
+
+#~ msgid "switch.group"
+#~ msgstr "Changer de groupe"
+
+#~ msgid "switch.chart"
+#~ msgstr "Changer de record"
+
+#~ msgid "skiplink.language"
+#~ msgstr "Langues"
+
+#~ msgid "skiplink.content"
+#~ msgstr "Contenu"
+
+#~ msgid "skiplink.login"
+#~ msgstr "Connexion"
+
+#~ msgid "skiplink.menu"
+#~ msgstr "Menu"
+
+#~ msgid "menu.games"
+#~ msgstr "Jeux"
+
+#~ msgid "menu.rankings"
+#~ msgstr "Classements"
+
+#~ msgid "menu.ranking.points"
+#~ msgstr "Classement points"
+
+#~ msgid "menu.ranking.medals"
+#~ msgstr "Classement médailles"
+
+#~ msgid "menu.site"
+#~ msgstr "Site"
+
+#~ msgid "menu.rules"
+#~ msgstr "Règlement"
+
+#~ msgid "menu.faq"
+#~ msgstr "FAQ"
+
+#~ msgid "menu.credits"
+#~ msgstr "Crédits"
+
+#~ msgid "login.link"
+#~ msgstr "Connexion"
+
+#~ msgid "register.link"
+#~ msgstr "Inscription"
+
+#~ msgid "account.link"
+#~ msgstr "Mon compte"
+
+#~ msgid "copyright.reserved_right"
+#~ msgstr "Tous droits réservés"
+
+#~ msgid "chart.submit_score"
+#~ msgstr "Envoyer mes scores sur le record"
+
+#~ msgid "chart.score.edit_or_prove"
+#~ msgstr "Mettre à jour mon score sur ce record"
+
+#~ msgid "chart.score.new"
+#~ msgstr "Envoyer mon score sur ce record"
+
+#~ msgid "submit.forbidden"
+#~ msgstr "Vous êtes actuellement interdit d'envoi de nouveau score."
+
+#~ msgid "submit.not_logged"
+#~ msgstr "Vous devez être connecté pour pouvoir envoyer des scores."
+
+#~ msgid "chart.return_group"
+#~ msgstr "Revenir au groupe"
+
+#~ msgid "chart.pointranking.full"
+#~ msgstr "Classement complet du record"
+
+#~ msgid "chart.ranking.score_list"
+#~ msgstr "Liste des scores"
+
+#~ msgid "chart.ranking.rank"
+#~ msgstr "Rang"
+
+#~ msgid "chart.ranking.nickname"
+#~ msgstr "Pseudonyme"
+
+#~ msgid "chart.ranking.new_score"
+#~ msgstr "Nouveau score !"
+
+#~ msgid "chart.ranking.points"
+#~ msgstr "Points"
+
+#~ msgid "chart.ranking.edit"
+#~ msgstr "Modifier"
+
+#~ msgid "chart.ranking.delete"
+#~ msgstr "Effacer"
+
+#~ msgid "chart.ranking.no_score_yet"
+#~ msgstr "Actuellement il n'y a pas de score sur ce record, soyez le premier à en envoyer un !"
+
+#~ msgid "game.fiche.amazon.ad.%s"
+#~ msgstr "Acheter le jeu %s sur"
+
+#~ msgid "game.fiche.amazon.website"
+#~ msgstr "Amazon.fr"
+
+#~ msgid "game.fiche.links"
+#~ msgstr "Liens du jeu"
+
+#~ msgid "game.fiche.home"
+#~ msgstr "Fiche"
+
+#~ msgid "game.grouplist"
+#~ msgstr "Liste des groupes"
+
+#~ msgid "game.charts"
+#~ msgstr "Records"
+
+#~ msgid "game.scores"
+#~ msgstr "Scores"
+
+#~ msgid "game.pointranking"
+#~ msgstr "Classement points du jeu"
+
+#~ msgid "game.pointranking.full"
+#~ msgstr "Classement points complet du jeu"
+
+#~ msgid "game.medalranking"
+#~ msgstr "Classement médailles du jeu"
+
+#~ msgid "game.medalranking.full"
+#~ msgstr "Classement médailles complet du jeu"
+
+#~ msgid "group.submit_scores"
+#~ msgstr "Envoyer mes scores sur le groupe"
+
+#~ msgid "group.submit"
+#~ msgstr "Envoyer mes scores sur ce groupe"
+
+#~ msgid "group.chartlist"
+#~ msgstr "Liste des records"
+
+#~ msgid "group.scores"
+#~ msgstr "Scores"
+
+#~ msgid "group.pointranking"
+#~ msgstr "Classement points"
+
+#~ msgid "group.pointranking.full"
+#~ msgstr "Classement points complet"
+
+#~ msgid "group.medalranking"
+#~ msgstr "Classement médailles"
+
+#~ msgid "group.medalranking.full"
+#~ msgstr "Classement médailles complet"
+
+#~ msgid "profile.title.games"
+#~ msgstr "Jeux"
+
+#~ msgid "profile.games.filter_by"
+#~ msgstr "Trier par"
+
+#~ msgid "profile.games.games"
+#~ msgstr "Jeux"
+
+#~ msgid "profile.games.rank"
+#~ msgstr "Rang"
+
+#~ msgid "profile.games.medals"
+#~ msgstr "Médailles"
+
+#~ msgid "profile.games.points"
+#~ msgstr "Points"
+
+#~ msgid "profile.games.platinum"
+#~ msgstr "Platine"
+
+#~ msgid "profile.games.gold"
+#~ msgstr "Or"
+
+#~ msgid "profile.games.silver"
+#~ msgstr "Argent"
+
+#~ msgid "profile.games.bronze"
+#~ msgstr "Bronze"
+
+#~ msgid "profile.status"
+#~ msgstr "Rôle"
+
+#~ msgid "profile.date.register"
+#~ msgstr "Date d'inscription"
+
+#~ msgid "profile.date.last_seen"
+#~ msgstr "Dernière connexion"
+
+#~ msgid "profile.country"
+#~ msgstr "Pays"
+
+#~ msgid "profile.website"
+#~ msgstr "Site web"
+
+#~ msgid "profile.age"
+#~ msgstr "Âge"
+
+#~ msgid "profile.age.years"
+#~ msgstr "ans"
+
+#~ msgid "profile.gender"
+#~ msgstr "Sexe"
+
+#~ msgid "profile.title.stats"
+#~ msgstr "Statistiques"
+
+#~ msgid "profile.points.rank"
+#~ msgstr "Rang au classement points"
+
+#~ msgid "profile.points.amount"
+#~ msgstr "Nombre de points"
+
+#~ msgid "profile.medals.rank"
+#~ msgstr "Rang au classement médailles"
+
+#~ msgid "profile.medals.amount"
+#~ msgstr "Nombre de médailles"
+
+#~ msgid "profile.medal.platinum"
+#~ msgstr "Platine"
+
+#~ msgid "profile.medal.gold"
+#~ msgstr "Or"
+
+#~ msgid "profile.medal.silver"
+#~ msgstr "Argent"
+
+#~ msgid "profile.medal.bronze"
+#~ msgstr "Bronze"
+
+#~ msgid "profile.game.number"
+#~ msgstr "Nombre de jeux"
+
+#~ msgid "profile.score.number"
+#~ msgstr "Nombre de scores"
+
+#~ msgid "profile.proof.number"
+#~ msgstr "Nombre de preuves"
+
+#~ msgid "profile.title.scores.latest"
+#~ msgstr "Derniers scores envoyés"
+
+#~ msgid "ranking.medal.caption"
+#~ msgstr "Liste des membres ordonnée par médailles"
+
+#~ msgid "ranking.medal.rank"
+#~ msgstr "Rang"
+
+#~ msgid "ranking.medal.nickname"
+#~ msgstr "Pseudonyme"
+
+#~ msgid "ranking.medal.platinum"
+#~ msgstr "Platine"
+
+#~ msgid "ranking.medal.gold"
+#~ msgstr "Or"
+
+#~ msgid "ranking.medal.silver"
+#~ msgstr "Argent"
+
+#~ msgid "ranking.medal.bronze"
+#~ msgstr "Bronze"
+
+#~ msgid "ranking.medal.scores"
+#~ msgstr "Scores"
+
+#~ msgid "ranking.point.caption"
+#~ msgstr "Liste des membres ordonnée par points"
+
+#~ msgid "ranking.point.rank"
+#~ msgstr "Rang"
+
+#~ msgid "ranking.point.nickname"
+#~ msgstr "Pseudonyme"
+
+#~ msgid "ranking.point.points"
+#~ msgstr "Points"
+
+#~ msgid "ranking.point.scores"
+#~ msgstr "Scores"
+
+#~ msgid "ranking.point.proofs"
+#~ msgstr "Preuves"
+
+#~ msgid "Article 2"
+#~ msgstr "Article 2"
+
+#~ msgid "Are forbidden on the site"
+#~ msgstr "Sont interdits sur le site"
+
+#~ msgid "All cheats / codes"
+#~ msgstr "Les cheats / codes"
+
+#~ msgid "Action Replay"
+#~ msgstr "L'action replay"
+
+#~ msgid "Continues"
+#~ msgstr "Les Continues"
+
+#~ msgid "Multi-players"
+#~ msgstr "Le multi-joueurs"
+
+#~ msgid "Emulators, whatever the machine which emulates"
+#~ msgstr "Les émulateurs, quelque soit la machine émulée"
+
+#~ msgid "Unofficial cars or improved characters downloads"
+#~ msgstr "Les téléchargements non officiels de véhicules ou personnages améliorés"
+
+#~ msgid "All unofficial pads"
+#~ msgstr "Toutes manettes non officielles"
+
+#~ msgid "Modify the source code of the game"
+#~ msgstr "Modifier le code source du jeu"
+
+#~ msgid "Several persons on the same account"
+#~ msgstr "Plusieurs personnes sur un même compte"
+
+#~ msgid "submit.back"
+#~ msgstr "Annuler les modifications et revenir en arrière"

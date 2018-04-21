@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/**
+* @author Luc Poupard
+* @site Normandie
+* @lastmodified 2014-12-17
+*/
+
+/* ----------------------------- */
+/* Summary */
+/* ----------------------------- */
+/*
+    ==
+*/
+
+label {
+    display: block;
+}
+
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+button,
+.btn {
+    padding: .2em 1em;
+    border: none;
+    border-radius: .2em;
+}
